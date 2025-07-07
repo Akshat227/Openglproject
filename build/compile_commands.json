@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/akshat/Openglproject/build",
+  "command": "/usr/bin/c++  -I/home/akshat/Openglproject/include -g -std=gnu++17 -o CMakeFiles/OpenGLApp.dir/main.cpp.o -c /home/akshat/Openglproject/main.cpp",
+  "file": "/home/akshat/Openglproject/main.cpp",
+  "output": "CMakeFiles/OpenGLApp.dir/main.cpp.o"
+},
+{
+  "directory": "/home/akshat/Openglproject/build/src",
+  "command": "/usr/bin/cc  -I/home/akshat/Openglproject/include -g -o CMakeFiles/glad.dir/glad.c.o -c /home/akshat/Openglproject/src/glad.c",
+  "file": "/home/akshat/Openglproject/src/glad.c",
+  "output": "src/CMakeFiles/glad.dir/glad.c.o"
+}
+]

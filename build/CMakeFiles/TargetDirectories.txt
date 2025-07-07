@@ -1,0 +1,6 @@
+/home/akshat/Openglproject/build/CMakeFiles/OpenGLApp.dir
+/home/akshat/Openglproject/build/CMakeFiles/edit_cache.dir
+/home/akshat/Openglproject/build/CMakeFiles/rebuild_cache.dir
+/home/akshat/Openglproject/build/src/CMakeFiles/glad.dir
+/home/akshat/Openglproject/build/src/CMakeFiles/edit_cache.dir
+/home/akshat/Openglproject/build/src/CMakeFiles/rebuild_cache.dir
